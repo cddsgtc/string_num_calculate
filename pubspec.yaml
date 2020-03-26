@@ -1,8 +1,10 @@
 name: string_num_calculate
 description: 一个通用的数字字符计算的库
 version: 0.0.1
+Homepage: https://github.com/cddsgtc/string_num_calculate
 
 environment:
-  sdk: '>=1.19.0'
+  sdk: '>=2.7.0 <3.0.0'
+  
 dev_dependencies:
   test: ^1.14.2
