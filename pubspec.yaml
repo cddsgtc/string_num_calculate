@@ -2,7 +2,7 @@ name: string_num_calculate
 description: 一个通用的数字字符计算的库
 version: 0.0.1
 
-einvironment:
-  sdk: ">=2.0.0"
+environment:
+  sdk: '>=1.19.0'
 dev_dependencies:
   test: ^1.14.2

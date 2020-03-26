@@ -311,10 +311,10 @@
       "name": "string_num_calculate",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "1.19"
     }
   ],
-  "generated": "2020-03-26T12:46:31.497155Z",
+  "generated": "2020-03-26T12:52:31.829753Z",
   "generator": "pub",
   "generatorVersion": "2.7.1"
 }
