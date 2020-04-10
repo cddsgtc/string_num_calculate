@@ -6,6 +6,10 @@
 
 已通过测试，可放心使用。
 
+This is a common number string calculate package, and easy for building a virtual number keyboard or calculter.
+
+Have passed all test.
+
 ## 构成
     
     Calculate
