@@ -1,6 +1,6 @@
 name: string_num_calculate
 description: 一个通用的数字字符计算的库/A common number string calculate package
-version: 0.0.2
+version: 0.0.3
 reposity: https://github.com/cddsgtc/string_num_calculate
 homepage: https://github.com/cddsgtc/string_num_calculate
 
